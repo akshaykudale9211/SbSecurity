@@ -1,6 +1,6 @@
-package com.upgrad.course.demo.service;
+package com.ak.course.demo.service;
 
-import com.upgrad.course.demo.entity.User;
+import com.ak.course.demo.entity.User;
 
 import java.util.List;
 

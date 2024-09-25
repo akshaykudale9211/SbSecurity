@@ -1,4 +1,4 @@
-package com.upgrad.course.demo;
+package com.ak.course.demo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

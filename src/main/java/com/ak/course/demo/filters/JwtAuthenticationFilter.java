@@ -1,8 +1,8 @@
-package com.upgrad.course.demo.filters;
+package com.ak.course.demo.filters;
 
-import com.upgrad.course.demo.model.UserPrincipal;
-import com.upgrad.course.demo.service.TokenProvider;
-import com.upgrad.course.demo.service.UserDetailsServiceImpl;
+import com.ak.course.demo.model.UserPrincipal;
+import com.ak.course.demo.service.TokenProvider;
+import com.ak.course.demo.service.UserDetailsServiceImpl;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,8 +1,8 @@
-package com.upgrad.course.demo.config;
+package com.ak.course.demo.config;
 
-import com.upgrad.course.demo.filters.JwtAuthenticationFilter;
-import com.upgrad.course.demo.service.InvalidLoginHandler;
-import com.upgrad.course.demo.service.UserDetailsServiceImpl;
+import com.ak.course.demo.filters.JwtAuthenticationFilter;
+import com.ak.course.demo.service.InvalidLoginHandler;
+import com.ak.course.demo.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

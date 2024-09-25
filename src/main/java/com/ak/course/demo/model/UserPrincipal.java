@@ -1,6 +1,6 @@
-package com.upgrad.course.demo.model;
+package com.ak.course.demo.model;
 
-import com.upgrad.course.demo.entity.User;
+import com.ak.course.demo.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

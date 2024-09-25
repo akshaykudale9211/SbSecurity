@@ -1,4 +1,4 @@
-package com.upgrad.course.demo.service;
+package com.ak.course.demo.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

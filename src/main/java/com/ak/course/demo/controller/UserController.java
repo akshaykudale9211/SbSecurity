@@ -1,11 +1,10 @@
-package com.upgrad.course.demo.controller;
+package com.ak.course.demo.controller;
 
-import com.upgrad.course.demo.entity.User;
-import com.upgrad.course.demo.model.JwtTokenRequest;
-import com.upgrad.course.demo.model.JwtTokenResponse;
-import com.upgrad.course.demo.model.UserPrincipal;
-import com.upgrad.course.demo.service.TokenProvider;
-import com.upgrad.course.demo.service.UserService;
+import com.ak.course.demo.entity.User;
+import com.ak.course.demo.model.JwtTokenRequest;
+import com.ak.course.demo.model.UserPrincipal;
+import com.ak.course.demo.service.TokenProvider;
+import com.ak.course.demo.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.upgrad.course.demo.exception;
+package com.ak.course.demo.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

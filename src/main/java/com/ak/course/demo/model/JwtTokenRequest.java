@@ -1,4 +1,4 @@
-package com.upgrad.course.demo.model;
+package com.ak.course.demo.model;
 
 public class JwtTokenRequest {
 

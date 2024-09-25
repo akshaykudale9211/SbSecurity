@@ -1,8 +1,8 @@
-package com.upgrad.course.demo.service;
+package com.ak.course.demo.service;
 
-import com.upgrad.course.demo.entity.User;
-import com.upgrad.course.demo.model.UserPrincipal;
-import com.upgrad.course.demo.repository.UserRepo;
+import com.ak.course.demo.entity.User;
+import com.ak.course.demo.model.UserPrincipal;
+import com.ak.course.demo.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

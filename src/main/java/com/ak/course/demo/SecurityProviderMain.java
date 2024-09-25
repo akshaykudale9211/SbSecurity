@@ -1,7 +1,7 @@
-package com.upgrad.course.demo;
+package com.ak.course.demo;
 
-import com.upgrad.course.demo.entity.User;
-import com.upgrad.course.demo.repository.UserRepo;
+import com.ak.course.demo.entity.User;
+import com.ak.course.demo.repository.UserRepo;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;

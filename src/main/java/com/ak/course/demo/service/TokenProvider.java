@@ -1,10 +1,9 @@
-package com.upgrad.course.demo.service;
+package com.ak.course.demo.service;
 
-import com.upgrad.course.demo.model.UserPrincipal;
+import com.ak.course.demo.model.UserPrincipal;
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.stereotype.Component;
 

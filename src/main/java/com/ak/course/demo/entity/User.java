@@ -1,4 +1,4 @@
-package com.upgrad.course.demo.entity;
+package com.ak.course.demo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
